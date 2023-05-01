@@ -8,7 +8,6 @@ Terminal with administrative privileges. To run the following command to change 
 python macchanger.py -i interface -m macaddress
 
 ```
-
 ## Help
 
 ```
